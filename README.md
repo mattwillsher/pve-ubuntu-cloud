@@ -7,6 +7,4 @@ Add a cloud-init CD (user-data, meta-data) to populate SSH keys and such. DHCP i
 
 Read the script. Change the ZPOOL to where the VM block devices are stored. This has only been tested with zvols.
 
-It's not quite finished, and I'm using the hardware to try Joyent SDC/Triton. Might pick it up in future. PRs, forks are welcome.
-
 GPLv3 license.
